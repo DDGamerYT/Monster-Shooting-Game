@@ -81,7 +81,7 @@ bullet_y = 550
 bullet_state = 'ready'
 bullety_change = -4
 
-score = 251
+score = 0
 score_font = pygame.font.Font('data/Aldrich-Regular.ttf', 32)
 score_x = 10
 score_y = 10
@@ -562,3 +562,4 @@ while run:
 	pygame.display.update()
 
 	
+
